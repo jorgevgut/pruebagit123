@@ -1,3 +1,2 @@
-consnole.log("mundo");
 
 // hola
