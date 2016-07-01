@@ -1,3 +1,3 @@
-consnole.log("hola mundo");
+consnole.log("mundo");
 
 // hola
